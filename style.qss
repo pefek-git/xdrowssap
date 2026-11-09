@@ -1,0 +1,44 @@
+QWidget {
+  background-color: #20232b;
+  color: #eeeeee;
+  font-family: "Hack Nerd Font";
+  font-size: 14px;
+}
+
+QLabel {
+  color: #eeeeee;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+QLineEdit {
+  background-color: #303541;
+  border: 1px solid #454c5c;
+  border-radius: 8px;
+  padding: 10px;
+  color: white;
+}
+
+QPushButton {
+  background-color:#4778bd;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+QPushButton:hover {
+  background-color: #6095dc;
+}
+
+QPushButton:pressed {
+    background-color: #315a91;
+}
+
+QSpinBox {
+  background-color: #303541;
+  border: 1px solid #454c5c;
+  border-radius: 6px;
+  padding: 6px;
+}
