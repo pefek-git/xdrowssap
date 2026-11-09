@@ -2,7 +2,7 @@
 
 XdrowssaP - Open Source Password generator written in C++.
 
-### Features:
+### Features:
 
 - Speed - C++ makes it fast as f**k.
   
